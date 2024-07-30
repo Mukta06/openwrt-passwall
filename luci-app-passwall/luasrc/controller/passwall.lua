@@ -1,7 +1,7 @@
 -- Copyright (C) 2018-2020 L-WRT Team
 -- Copyright (C) 2021-2023 xiaorouji
 -- adding new comment of sachin
-
+-- adding n number of comments
 module("luci.controller.passwall", package.seeall)
 local api = require "luci.passwall.api"
 local appname = "passwall"			-- not available
